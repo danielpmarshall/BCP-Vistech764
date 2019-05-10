@@ -3,9 +3,8 @@
   <head>
     <?php require 'head.php'?>
     <title>Login</title>
-    <style>
-    
-    </style>
+    <!-- Bootstrap core CSS -->
+    <script src="js/jquery.min.js"></script>
   </head>
   <body>
   <?php require 'navbar.php' ?>
